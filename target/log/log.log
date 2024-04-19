@@ -1,0 +1,695 @@
+2024-04-19 15:48:09 DEBUG - Got browser profile options from settings file: 
+{browser.download.folderList=2, browser.helperApps.alwaysAsk.force=false, browser.helperApps.neverAsk.saveToDisk=application/octet-stream, application/x-debian-package, application/x-www-form-urlencod, application/json, application/x-compressed, application/x-zip-compressed, application/zip, multipart/x-zip, text/plain, text/csv, intl.accept_languages=en, browser.download.manager.focusWhenStarting=false, browser.download.useDownloadDir=true, browser.download.manager.showAlertOnComplete=false, browser.download.panel.shown=false, browser.download.dir=./downloads, browser.download.manager.useWindow=false, browser.download.manager.showWhenStarting=false, browser.download.manager.alertOnEXEOpen=false, browser.download.manager.closeWhenDone=true}
+2024-04-19 15:48:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 15:48:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 15:48:33 INFO  - Browser 'FIREFOX' ready...
+2024-04-19 15:48:33 INFO  - Maximizing browser window
+2024-04-19 15:48:33 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 15:48:35 INFO  - Closing browser
+2024-04-19 15:49:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 15:49:14 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 15:49:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 15:49:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 15:49:18 INFO  - Browser 'CHROME' ready...
+2024-04-19 15:49:18 INFO  - Maximizing browser window
+2024-04-19 15:49:18 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 15:49:19 INFO  - Closing browser
+2024-04-19 15:56:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 15:56:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 15:56:47 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 15:56:47 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 15:56:47 INFO  - Browser 'CHROME' ready...
+2024-04-19 15:56:48 INFO  - Maximizing browser window
+2024-04-19 15:56:48 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 15:56:49 INFO  - Link 'Here link' :: Clicking
+2024-04-19 15:56:49 INFO  - Closing browser
+2024-04-19 16:00:28 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:00:28 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:00:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:00:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:00:30 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:00:30 INFO  - Maximizing browser window
+2024-04-19 16:00:30 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:00:31 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:00:32 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:00:32 INFO  - Text Field 'Password TextBox' :: Typing 'rsHfYnffxxA2aя'
+2024-04-19 16:00:32 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:00:32 INFO  - Text Field 'Username TextBox' :: Typing 'lhathj0ilrxkvag'
+2024-04-19 16:00:32 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:00:32 INFO  - Text Field 'Domain TextBox' :: Typing 'svbl'
+2024-04-19 16:00:32 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:00:32 INFO  - Label 'element 3' :: Clicking
+2024-04-19 16:00:32 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:00:32 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:00:33 INFO  - Closing browser
+2024-04-19 16:02:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:02:39 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:02:41 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:02:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:02:41 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:02:41 INFO  - Maximizing browser window
+2024-04-19 16:02:41 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:02:42 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:02:43 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:02:43 INFO  - Text Field 'Password TextBox' :: Typing 'zaJG891BSlA2aя'
+2024-04-19 16:02:43 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:02:43 INFO  - Text Field 'Username TextBox' :: Typing 'c1stasitorcejxi'
+2024-04-19 16:02:43 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:02:43 INFO  - Text Field 'Domain TextBox' :: Typing 'x05n'
+2024-04-19 16:02:43 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:02:44 INFO  - Label 'element 5' :: Clicking
+2024-04-19 16:02:44 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:02:44 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:02:44 INFO  - Closing browser
+2024-04-19 16:04:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:04:01 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:04:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:04:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:04:03 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:04:03 INFO  - Maximizing browser window
+2024-04-19 16:04:03 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:04:04 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:04:04 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:04:04 INFO  - Text Field 'Password TextBox' :: Typing 'XnHO0MtYnDA2aя'
+2024-04-19 16:04:04 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:04:04 INFO  - Text Field 'Username TextBox' :: Typing 'nywiwzaeodnevyy'
+2024-04-19 16:04:04 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:04:04 INFO  - Text Field 'Domain TextBox' :: Typing 'kooh'
+2024-04-19 16:04:04 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:04:05 INFO  - Label 'element 8' :: Clicking
+2024-04-19 16:04:05 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:04:05 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:04:06 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:04:06 INFO  - CheckBox 'element 11' :: Clicking
+2024-04-19 16:04:06 INFO  - CheckBox 'element 14' :: Clicking
+2024-04-19 16:04:06 INFO  - CheckBox 'element 17' :: Clicking
+2024-04-19 16:04:06 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:04:06 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:04:06 INFO  - Closing browser
+2024-04-19 16:05:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:05:03 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:05:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:05:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:05:05 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:05:05 INFO  - Maximizing browser window
+2024-04-19 16:05:05 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:05:06 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:05:07 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:05:07 INFO  - Text Field 'Password TextBox' :: Typing 'xu3QgJVbKBA2aя'
+2024-04-19 16:05:07 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:05:07 INFO  - Text Field 'Username TextBox' :: Typing 'wbnvdoorsherxak'
+2024-04-19 16:05:07 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:05:07 INFO  - Text Field 'Domain TextBox' :: Typing 'zzao'
+2024-04-19 16:05:07 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:05:07 INFO  - Label 'element 3' :: Clicking
+2024-04-19 16:05:07 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:05:07 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:05:08 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:05:08 INFO  - CheckBox 'element 9' :: Clicking
+2024-04-19 16:05:08 INFO  - CheckBox 'element 19' :: Clicking
+2024-04-19 16:05:08 INFO  - CheckBox 'element 3' :: Clicking
+2024-04-19 16:05:08 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:05:09 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:05:09 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:05:09 INFO  - Closing browser
+2024-04-19 16:05:28 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:05:28 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:05:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:05:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:05:30 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:05:30 INFO  - Maximizing browser window
+2024-04-19 16:05:30 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:05:31 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:05:32 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:05:32 INFO  - Text Field 'Password TextBox' :: Typing '91pVYFIxscA2aя'
+2024-04-19 16:05:32 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:05:32 INFO  - Text Field 'Username TextBox' :: Typing 'du8gubxmxkhruai'
+2024-04-19 16:05:32 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:05:32 INFO  - Text Field 'Domain TextBox' :: Typing 'bgms'
+2024-04-19 16:05:32 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:05:32 INFO  - Label 'element 7' :: Clicking
+2024-04-19 16:05:32 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:05:33 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:05:33 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:05:33 INFO  - CheckBox 'element 20' :: Clicking
+2024-04-19 16:05:33 INFO  - CheckBox 'element 2' :: Clicking
+2024-04-19 16:05:33 INFO  - CheckBox 'element 1' :: Clicking
+2024-04-19 16:05:33 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:05:33 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:05:34 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:05:34 INFO  - Closing browser
+2024-04-19 16:06:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:06:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:06:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:06:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:06:23 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:06:23 INFO  - Maximizing browser window
+2024-04-19 16:06:23 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:06:24 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:06:25 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:06:25 INFO  - Text Field 'Password TextBox' :: Typing '89ci1EZazIA2aя'
+2024-04-19 16:06:25 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:06:25 INFO  - Text Field 'Username TextBox' :: Typing '9h9zp5txa2m5bcl'
+2024-04-19 16:06:25 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:06:25 INFO  - Text Field 'Domain TextBox' :: Typing '1xju'
+2024-04-19 16:06:25 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:06:26 INFO  - Label 'element 7' :: Clicking
+2024-04-19 16:06:26 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:06:26 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:06:26 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:06:27 INFO  - CheckBox 'element 17' :: Clicking
+2024-04-19 16:06:27 INFO  - CheckBox 'element 4' :: Clicking
+2024-04-19 16:06:27 INFO  - CheckBox 'element 7' :: Clicking
+2024-04-19 16:06:27 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:06:27 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:06:32 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:06:32 INFO  - Closing browser
+2024-04-19 16:07:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:07:54 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:07:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:07:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:07:56 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:07:56 INFO  - Maximizing browser window
+2024-04-19 16:07:56 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:07:57 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:07:57 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:07:57 INFO  - Text Field 'Password TextBox' :: Typing 'ox0YRXPoEfA2aя'
+2024-04-19 16:07:57 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:07:57 INFO  - Text Field 'Username TextBox' :: Typing 'm4dafxk8z9wznw6'
+2024-04-19 16:07:57 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:07:57 INFO  - Text Field 'Domain TextBox' :: Typing 'fmek'
+2024-04-19 16:07:58 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:07:58 INFO  - Label 'element 5' :: Clicking
+2024-04-19 16:07:58 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:07:58 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:07:59 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:07:59 INFO  - CheckBox 'element 3' :: Clicking
+2024-04-19 16:07:59 INFO  - CheckBox 'element 16' :: Clicking
+2024-04-19 16:07:59 INFO  - CheckBox 'element 18' :: Clicking
+2024-04-19 16:07:59 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:08:09 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:08:09 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:08:09 INFO  - Closing browser
+2024-04-19 16:11:59 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:11:59 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:12:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:12:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:12:01 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:12:01 INFO  - Maximizing browser window
+2024-04-19 16:12:01 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:12:04 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:12:04 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:12:04 INFO  - Text Field 'Password TextBox' :: Typing 'GStZoOzTbVA2aя'
+2024-04-19 16:12:05 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:12:05 INFO  - Text Field 'Username TextBox' :: Typing 'mbnmpdpg4vua06f'
+2024-04-19 16:12:05 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:12:05 INFO  - Text Field 'Domain TextBox' :: Typing 'esot'
+2024-04-19 16:12:05 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:12:05 INFO  - Label 'element 11' :: Clicking
+2024-04-19 16:12:05 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:12:05 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:12:06 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:12:06 INFO  - CheckBox 'element 14' :: Clicking
+2024-04-19 16:12:06 INFO  - CheckBox 'element 19' :: Clicking
+2024-04-19 16:12:06 INFO  - CheckBox 'element 2' :: Clicking
+2024-04-19 16:12:07 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:12:17 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:12:17 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:12:17 INFO  - Closing browser
+2024-04-19 16:14:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:14:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:14:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:14:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:14:17 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:14:18 INFO  - Maximizing browser window
+2024-04-19 16:14:18 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:14:19 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:14:19 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:14:19 INFO  - Text Field 'Password TextBox' :: Typing 'HksTNoUBM1A2aя'
+2024-04-19 16:14:19 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:14:19 INFO  - Text Field 'Username TextBox' :: Typing 'u2yxsfladasraxy'
+2024-04-19 16:14:19 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:14:19 INFO  - Text Field 'Domain TextBox' :: Typing 'ebqm'
+2024-04-19 16:14:19 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:14:20 INFO  - Label 'element 10' :: Clicking
+2024-04-19 16:14:20 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:14:20 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:14:20 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:14:21 INFO  - CheckBox 'element 16' :: Clicking
+2024-04-19 16:14:21 INFO  - CheckBox 'element 18' :: Clicking
+2024-04-19 16:14:21 INFO  - CheckBox 'element 13' :: Clicking
+2024-04-19 16:14:21 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:14:31 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:14:31 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:14:31 INFO  - Closing browser
+2024-04-19 16:16:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:16:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:16:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:16:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:16:48 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:16:48 INFO  - Maximizing browser window
+2024-04-19 16:16:48 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:16:50 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:16:50 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:16:50 INFO  - Text Field 'Password TextBox' :: Typing '87qpLaK1OtA2aя'
+2024-04-19 16:16:50 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:16:50 INFO  - Text Field 'Username TextBox' :: Typing 'paftfrvmyvmdtfl'
+2024-04-19 16:16:51 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:16:51 INFO  - Text Field 'Domain TextBox' :: Typing 'vaua'
+2024-04-19 16:16:51 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:16:51 INFO  - Label 'element 9' :: Clicking
+2024-04-19 16:16:51 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:16:51 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:16:52 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:16:52 INFO  - CheckBox 'element 15' :: Clicking
+2024-04-19 16:16:52 INFO  - CheckBox 'element 19' :: Clicking
+2024-04-19 16:16:52 INFO  - CheckBox 'element 7' :: Clicking
+2024-04-19 16:16:52 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:17:07 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:17:07 INFO  - Closing browser
+2024-04-19 16:25:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:25:19 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:25:21 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:25:21 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:25:21 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:25:21 INFO  - Maximizing browser window
+2024-04-19 16:25:21 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:25:24 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:25:25 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:25:25 INFO  - Text Field 'Password TextBox' :: Typing 'ENr7gTtO88A2aя'
+2024-04-19 16:25:25 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:25:25 INFO  - Text Field 'Username TextBox' :: Typing '2taa0klzquub2ia'
+2024-04-19 16:25:25 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:25:25 INFO  - Text Field 'Domain TextBox' :: Typing 'gcwk'
+2024-04-19 16:25:25 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:25:26 INFO  - Label 'element 4' :: Clicking
+2024-04-19 16:25:26 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:25:26 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:25:26 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:25:27 INFO  - CheckBox 'element 15' :: Clicking
+2024-04-19 16:25:27 INFO  - CheckBox 'element 12' :: Clicking
+2024-04-19 16:25:27 INFO  - CheckBox 'element 2' :: Clicking
+2024-04-19 16:25:27 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:25:35 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:25:35 INFO  - Closing browser
+2024-04-19 16:26:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:26:19 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:26:21 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:26:21 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:26:21 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:26:21 INFO  - Maximizing browser window
+2024-04-19 16:26:21 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:26:22 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:26:23 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:26:23 INFO  - Text Field 'Password TextBox' :: Typing '815fb27jnPA2aя'
+2024-04-19 16:26:23 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:26:23 INFO  - Text Field 'Username TextBox' :: Typing 'asgmmqyr1yn97xq'
+2024-04-19 16:26:23 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:26:23 INFO  - Text Field 'Domain TextBox' :: Typing 'irx6'
+2024-04-19 16:26:23 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:26:23 INFO  - Label 'element 9' :: Clicking
+2024-04-19 16:26:23 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:26:23 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:26:24 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:26:24 INFO  - CheckBox 'element 4' :: Clicking
+2024-04-19 16:26:24 INFO  - CheckBox 'element 17' :: Clicking
+2024-04-19 16:26:24 INFO  - CheckBox 'element 1' :: Clicking
+2024-04-19 16:26:24 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:26:33 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:26:33 INFO  - Closing browser
+2024-04-19 16:27:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:27:54 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:27:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:27:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:27:56 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:27:56 INFO  - Maximizing browser window
+2024-04-19 16:27:56 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:27:57 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:27:58 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:27:58 INFO  - Text Field 'Password TextBox' :: Typing 'kMMyGVsxRtA2aя'
+2024-04-19 16:27:58 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:27:58 INFO  - Text Field 'Username TextBox' :: Typing 'm6aufb1q6mwp2w7'
+2024-04-19 16:27:58 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:27:58 INFO  - Text Field 'Domain TextBox' :: Typing 'qezy'
+2024-04-19 16:27:58 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:27:59 INFO  - Label 'element 10' :: Clicking
+2024-04-19 16:27:59 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:27:59 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:28:00 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:28:00 INFO  - CheckBox 'element 4' :: Clicking
+2024-04-19 16:28:00 INFO  - CheckBox 'element 18' :: Clicking
+2024-04-19 16:28:00 INFO  - CheckBox 'element 7' :: Clicking
+2024-04-19 16:28:00 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:28:02 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:28:02 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:28:02 INFO  - Closing browser
+2024-04-19 16:28:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:28:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:28:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:28:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:28:48 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:28:48 INFO  - Maximizing browser window
+2024-04-19 16:28:48 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:28:50 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:28:51 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:28:51 INFO  - Text Field 'Password TextBox' :: Typing 'ODBMHBUnlkA2aя'
+2024-04-19 16:28:51 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:28:51 INFO  - Text Field 'Username TextBox' :: Typing 'uaksn1nz1apoog1'
+2024-04-19 16:28:51 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:28:51 INFO  - Text Field 'Domain TextBox' :: Typing '3u5e'
+2024-04-19 16:28:51 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:28:51 INFO  - Label 'element 5' :: Clicking
+2024-04-19 16:28:51 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:28:52 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:28:52 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:28:52 INFO  - CheckBox 'element 1' :: Clicking
+2024-04-19 16:28:52 INFO  - CheckBox 'element 11' :: Clicking
+2024-04-19 16:28:52 INFO  - CheckBox 'element 8' :: Clicking
+2024-04-19 16:28:53 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:28:55 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:28:55 INFO  - Closing browser
+2024-04-19 16:30:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:30:33 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:30:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:30:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:30:35 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:30:35 INFO  - Maximizing browser window
+2024-04-19 16:30:35 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:30:37 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:30:38 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:30:38 INFO  - Text Field 'Password TextBox' :: Typing 'vlcrSK1xqbA2aя'
+2024-04-19 16:30:38 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:30:38 INFO  - Text Field 'Username TextBox' :: Typing 'xsk8ojaoudymtme'
+2024-04-19 16:30:38 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:30:38 INFO  - Text Field 'Domain TextBox' :: Typing 'tjhe'
+2024-04-19 16:30:38 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:30:39 INFO  - Label 'element 11' :: Clicking
+2024-04-19 16:30:39 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:30:39 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:30:40 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:30:40 INFO  - CheckBox 'element 6' :: Clicking
+2024-04-19 16:30:40 INFO  - CheckBox 'element 4' :: Clicking
+2024-04-19 16:30:40 INFO  - CheckBox 'element 12' :: Clicking
+2024-04-19 16:30:40 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:30:40 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:30:40 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:30:40 INFO  - Closing browser
+2024-04-19 16:32:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:32:44 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:32:46 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:32:46 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:32:46 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:32:46 INFO  - Maximizing browser window
+2024-04-19 16:32:46 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:32:48 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:32:48 INFO  - Button 'Hide Button' :: Clicking
+2024-04-19 16:32:48 DEBUG - No elements with locator 'By.xpath: //div[@class='help-form']' were found in DISPLAYED state
+2024-04-19 16:32:48 INFO  - Closing browser
+2024-04-19 16:34:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:34:36 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:34:38 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:34:38 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:34:38 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:34:38 INFO  - Maximizing browser window
+2024-04-19 16:34:38 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:34:40 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:34:41 INFO  - Button 'Accept Cookies Button' :: Clicking
+2024-04-19 16:34:42 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'cookies')]' were found in DISPLAYED state
+2024-04-19 16:34:42 INFO  - Closing browser
+2024-04-19 16:36:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:36:15 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:36:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:36:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:36:17 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:36:17 INFO  - Maximizing browser window
+2024-04-19 16:36:17 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:36:19 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:36:20 INFO  - Label 'Timer' :: Getting text from element
+2024-04-19 16:36:20 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2024-04-19 16:36:20 INFO  - Closing browser
+2024-04-19 16:37:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:37:19 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:37:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:37:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:37:20 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:37:20 INFO  - Maximizing browser window
+2024-04-19 16:37:20 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:37:24 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:37:24 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:37:24 INFO  - Text Field 'Password TextBox' :: Typing 'BLRUyyI1q1A2aя'
+2024-04-19 16:37:24 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:37:24 INFO  - Text Field 'Username TextBox' :: Typing 'jg0yrzucxqak5el'
+2024-04-19 16:37:25 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:37:25 INFO  - Text Field 'Domain TextBox' :: Typing 'ig48'
+2024-04-19 16:37:25 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:37:25 INFO  - Label 'element 10' :: Clicking
+2024-04-19 16:37:25 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:37:25 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:37:26 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:37:26 INFO  - CheckBox 'element 15' :: Clicking
+2024-04-19 16:37:26 INFO  - CheckBox 'element 17' :: Clicking
+2024-04-19 16:37:26 INFO  - CheckBox 'element 7' :: Clicking
+2024-04-19 16:37:26 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:37:28 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:37:28 INFO  - Closing browser
+2024-04-19 16:37:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:37:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:37:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:37:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:37:44 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:37:44 INFO  - Maximizing browser window
+2024-04-19 16:37:44 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:37:46 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:37:46 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:37:46 INFO  - Text Field 'Password TextBox' :: Typing 'LYT50FMgN3A2aя'
+2024-04-19 16:37:46 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:37:46 INFO  - Text Field 'Username TextBox' :: Typing '7cumc9alvn4jael'
+2024-04-19 16:37:47 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:37:47 INFO  - Text Field 'Domain TextBox' :: Typing 'jvcz'
+2024-04-19 16:37:47 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:37:47 INFO  - Label 'element 9' :: Clicking
+2024-04-19 16:37:47 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:37:47 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:37:48 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:37:48 INFO  - CheckBox 'element 10' :: Clicking
+2024-04-19 16:37:48 INFO  - CheckBox 'element 15' :: Clicking
+2024-04-19 16:37:48 INFO  - CheckBox 'element 20' :: Clicking
+2024-04-19 16:37:48 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:37:50 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:37:50 INFO  - Closing browser
+2024-04-19 16:37:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:37:50 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:37:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:37:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:37:52 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:37:52 INFO  - Maximizing browser window
+2024-04-19 16:37:52 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:37:54 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:37:55 INFO  - Button 'Hide Button' :: Clicking
+2024-04-19 16:37:55 DEBUG - No elements with locator 'By.xpath: //div[@class='help-form']' were found in DISPLAYED state
+2024-04-19 16:37:55 INFO  - Closing browser
+2024-04-19 16:37:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:37:55 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:37:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:37:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:37:56 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:37:56 INFO  - Maximizing browser window
+2024-04-19 16:37:56 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:37:57 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:37:58 INFO  - Button 'Accept Cookies Button' :: Clicking
+2024-04-19 16:38:00 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'cookies')]' were found in DISPLAYED state
+2024-04-19 16:38:00 INFO  - Closing browser
+2024-04-19 16:38:00 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:38:00 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:38:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:38:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:38:01 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:38:01 INFO  - Maximizing browser window
+2024-04-19 16:38:01 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:38:04 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:38:04 INFO  - Label 'Timer' :: Getting text from element
+2024-04-19 16:38:04 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2024-04-19 16:38:04 INFO  - Closing browser
+2024-04-19 16:54:07 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:54:07 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:54:11 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:54:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:54:11 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:54:11 INFO  - Maximizing browser window
+2024-04-19 16:54:11 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:54:14 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:54:14 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:54:14 INFO  - Text Field 'Password TextBox' :: Typing 'BmtUVNEGIaA2aя'
+2024-04-19 16:54:14 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:54:14 INFO  - Text Field 'Username TextBox' :: Typing 'z5qtam7xirqqj9l'
+2024-04-19 16:54:14 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:54:14 INFO  - Text Field 'Domain TextBox' :: Typing 'jlnn'
+2024-04-19 16:54:15 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:54:15 INFO  - Label 'element 5' :: Clicking
+2024-04-19 16:54:15 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:54:15 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:54:16 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:54:16 INFO  - CheckBox 'element 20' :: Clicking
+2024-04-19 16:54:16 INFO  - CheckBox 'element 19' :: Clicking
+2024-04-19 16:54:16 INFO  - CheckBox 'element 12' :: Clicking
+2024-04-19 16:54:16 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:54:18 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:54:18 INFO  - Closing browser
+2024-04-19 16:54:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:54:18 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:54:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:54:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:54:20 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:54:20 INFO  - Maximizing browser window
+2024-04-19 16:54:20 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:54:21 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:54:21 INFO  - Button 'Hide Button' :: Clicking
+2024-04-19 16:54:22 DEBUG - No elements with locator 'By.xpath: //div[@class='help-form']' were found in DISPLAYED state
+2024-04-19 16:54:22 INFO  - Closing browser
+2024-04-19 16:54:22 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:54:22 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:54:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:54:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:54:23 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:54:23 INFO  - Maximizing browser window
+2024-04-19 16:54:23 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:54:24 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:54:24 INFO  - Button 'Accept Cookies Button' :: Clicking
+2024-04-19 16:54:26 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'cookies')]' were found in DISPLAYED state
+2024-04-19 16:54:26 INFO  - Closing browser
+2024-04-19 16:54:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:54:26 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:54:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:54:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:54:28 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:54:28 INFO  - Maximizing browser window
+2024-04-19 16:54:28 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:54:29 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:54:29 INFO  - Label 'Timer' :: Getting text from element
+2024-04-19 16:54:30 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2024-04-19 16:54:30 INFO  - Closing browser
+2024-04-19 16:56:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:56:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:56:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:56:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:56:23 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:56:23 INFO  - Maximizing browser window
+2024-04-19 16:56:23 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:56:24 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:56:24 INFO  - Text Field 'Password TextBox' :: Clearing
+2024-04-19 16:56:24 INFO  - Text Field 'Password TextBox' :: Typing '2rqV1kmKFMA2aя'
+2024-04-19 16:56:25 INFO  - Text Field 'Username TextBox' :: Clearing
+2024-04-19 16:56:25 INFO  - Text Field 'Username TextBox' :: Typing '2aozfuegzpqj1i9'
+2024-04-19 16:56:25 INFO  - Text Field 'Domain TextBox' :: Clearing
+2024-04-19 16:56:25 INFO  - Text Field 'Domain TextBox' :: Typing 'tehq'
+2024-04-19 16:56:25 INFO  - Label 'Dropdown Label' :: Clicking
+2024-04-19 16:56:25 INFO  - Label 'element 8' :: Clicking
+2024-04-19 16:56:25 INFO  - CheckBox 'Terms CheckBox' :: Clicking
+2024-04-19 16:56:25 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:56:26 INFO  - CheckBox 'element 21' :: Clicking
+2024-04-19 16:56:26 INFO  - CheckBox 'element 3' :: Clicking
+2024-04-19 16:56:26 INFO  - CheckBox 'element 8' :: Clicking
+2024-04-19 16:56:26 INFO  - CheckBox 'element 9' :: Clicking
+2024-04-19 16:56:26 INFO  - Link 'Upload Link' :: Clicking
+2024-04-19 16:56:26 INFO  - Button 'Next Button' :: Clicking
+2024-04-19 16:56:27 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'personal-details__form')]' were found in DISPLAYED state
+2024-04-19 16:56:27 INFO  - Closing browser
+2024-04-19 16:56:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:56:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:56:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:56:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:56:28 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:56:28 INFO  - Maximizing browser window
+2024-04-19 16:56:28 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:56:30 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:56:30 INFO  - Button 'Hide Button' :: Clicking
+2024-04-19 16:56:30 DEBUG - No elements with locator 'By.xpath: //div[@class='help-form']' were found in DISPLAYED state
+2024-04-19 16:56:30 INFO  - Closing browser
+2024-04-19 16:56:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:56:30 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:56:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:56:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:56:31 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:56:31 INFO  - Maximizing browser window
+2024-04-19 16:56:31 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:56:33 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:56:33 INFO  - Button 'Accept Cookies Button' :: Clicking
+2024-04-19 16:56:35 DEBUG - No elements with locator 'By.xpath: //div[contains(@class, 'cookies')]' were found in DISPLAYED state
+2024-04-19 16:56:35 INFO  - Closing browser
+2024-04-19 16:56:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-04-19 16:56:35 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-04-19 16:56:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-04-19 16:56:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-04-19 16:56:37 INFO  - Browser 'CHROME' ready...
+2024-04-19 16:56:37 INFO  - Maximizing browser window
+2024-04-19 16:56:37 INFO  - Navigate to url - 'https://userinyerface.com/'
+2024-04-19 16:56:38 INFO  - Link 'Here link' :: Clicking
+2024-04-19 16:56:38 INFO  - Label 'Timer' :: Getting text from element
+2024-04-19 16:56:38 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2024-04-19 16:56:38 INFO  - Closing browser
